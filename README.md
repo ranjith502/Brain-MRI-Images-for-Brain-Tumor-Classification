@@ -1,2 +1,2 @@
 # Brain-MRI-Images-for-Brain-Tumor-Classification
-# computer vision 
+# computer vision, Deep Learning
